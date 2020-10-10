@@ -6,6 +6,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Banner from './components/Banner';
 import Detail from './components/Detail';
+import SiteSection from './components/SiteSection';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <Banner />
       <Detail />
+      <SiteSection />
       <Footer />
     </div>
   );
