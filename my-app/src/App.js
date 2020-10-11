@@ -9,6 +9,7 @@ import Detail from './components/Detail';
 import SiteSection from './components/SiteSection';
 import HowItWork from './components/HowItWork';
 import About from './components/About';
+import Service from './components/Service';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <SiteSection />
       <HowItWork />
       <About />
+      <Service />
       <Footer />
     </div>
   );
