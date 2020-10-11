@@ -1,7 +1,6 @@
 import React from 'react';
 
 function Service() {
-    
     return (
       <div>
         <section className="site-section bg-light" id="services-section">
