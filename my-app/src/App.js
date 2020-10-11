@@ -10,6 +10,10 @@ import SiteSection from './components/SiteSection';
 import HowItWork from './components/HowItWork';
 import About from './components/About';
 import Service from './components/Service';
+import Testimonials from './components/Testimonials';
+import NewsAndEvent from './components/NewsAndEvent';
+import Contct from './components/Contct';
+
 
 function App() {
   return (
@@ -21,6 +25,9 @@ function App() {
       <HowItWork />
       <About />
       <Service />
+      <Testimonials />
+      <NewsAndEvent />
+      <Contct />
       <Footer />
     </div>
   );
