@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Banner from './components/Banner';
 import Detail from './components/Detail';
 import SiteSection from './components/SiteSection';
+import HowItWork from './components/HowItWork';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Banner />
       <Detail />
       <SiteSection />
+      <HowItWork />
       <Footer />
     </div>
   );
