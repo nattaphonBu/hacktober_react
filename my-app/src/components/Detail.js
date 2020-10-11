@@ -1,7 +1,6 @@
 import React from 'react';
 
 function Detail() {
-    
     return (
       <div>
         <div className="site-section" id="properties-section">
