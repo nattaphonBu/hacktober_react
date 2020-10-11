@@ -8,6 +8,7 @@ import Banner from './components/Banner';
 import Detail from './components/Detail';
 import SiteSection from './components/SiteSection';
 import HowItWork from './components/HowItWork';
+import About from './components/About';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Detail />
       <SiteSection />
       <HowItWork />
+      <About />
       <Footer />
     </div>
   );
